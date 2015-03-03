@@ -1,5 +1,3 @@
-<snippet>
-  <content>
 # jQuery simple drawing app
 
 Simple app that uses jQuery and the HTML canvas element to let you draw on the browser.
@@ -25,7 +23,3 @@ Just download the repo, and open in your browser (plug-and-play).
 
 This app was developed as a personal project for learning jQuery with Treehouse's jQuery course by Andrew Chalkley.
 
-
-</content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
