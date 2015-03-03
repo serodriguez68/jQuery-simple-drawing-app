@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:jQuery simple drawing app}
+  <content>
+# jQuery simple drawing app
 
 Simple app that uses jQuery and the HTML canvas element to let you draw on the browser.
 In the app you can change the color of the pencil or add a new custom color to your palette.
@@ -26,6 +26,6 @@ Just download the repo, and open in your browser (plug-and-play).
 This app was developed as a personal project for learning jQuery with Treehouse's jQuery course by Andrew Chalkley.
 
 
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
