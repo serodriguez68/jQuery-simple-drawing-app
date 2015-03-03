@@ -22,4 +22,4 @@ Just download the repo, and open in your browser (plug-and-play).
 ## Credits
 
 This app was developed as a personal project for learning jQuery with Treehouse's jQuery course by Andrew Chalkley.
-
+Sergio Rodríguez, Bogotá, Colombia
